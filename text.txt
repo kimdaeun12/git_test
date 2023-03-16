@@ -7,8 +7,15 @@ gkdkkdk
 dd
 aaaaaaa
 djhdjhjd
+<<<<<<< HEAD
 ddd
 dkdkkd
 dldlld
 rkskekfk
 dkjkjlks
+=======
+ddf
+1121212121
+안녕안녕
+fgfd
+>>>>>>> test
